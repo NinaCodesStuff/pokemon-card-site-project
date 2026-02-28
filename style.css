@@ -178,6 +178,7 @@ ul {
 
     .feature-image {
         height: 30vh;
+    }
 }
 
 @media (min-width: 768px) {
@@ -223,6 +224,7 @@ ul {
     }
 
 }
+
 
 
 
